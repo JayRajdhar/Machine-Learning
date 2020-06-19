@@ -16,5 +16,5 @@ Python
 
 6. [K Means Clustering](https://github.com/JayRajdhar/Machine-Learning-Micro-Projects/tree/master/6.%20K-Means-Clustering%20-%20Mall_Customers): Using KMeans on Mall Customers Data to classify the group of customers, while choosing the best value for K using the elbow method.
 
-7. [Decision Trees and Random Forests](): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
+7. [Decision Trees and Random Forests](https://github.com/JayRajdhar/Machine-Learning-Micro-Projects/tree/master/7.%20Decision%20Tree%20and%20Random%20Forest%20-%20Loan_data): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
 
